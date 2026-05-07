@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**sidkhare7/sidkhare7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Siddharth Khare
 
-Here are some ideas to get you started:
+Junior researcher interested in distributed systems, decentralized AI, blockchain infrastructure, search systems, and Web3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+- Decentralized search and retrieval
+- Federated / peer-to-peer learning
+- Reputation and trust systems
+- Blockchain infrastructure
+- Distributed systems engineering
+- AI + systems research
+
+## Currently Learning
+- Tribler architecture
+- Learn-to-rank systems
+- Distributed machine learning
+- Vector search / semantic retrieval
+- P2P networking
+
+## Projects
+Going to be added on Github.
+
+## Research Profiles
+- LinkedIn: [[https://www.linkedin.com/in/siddharth-khare-45a50b194/]]
+
+## Notes
+Building technical and research projects focused on real-world distributed systems.
