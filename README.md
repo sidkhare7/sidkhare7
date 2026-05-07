@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Siddharth Khare
+## Siddharth Khare
 
 Junior researcher interested in distributed systems, decentralized AI, blockchain infrastructure, search systems, and Web3.
 
