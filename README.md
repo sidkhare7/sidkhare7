@@ -4,10 +4,10 @@
 Researcher and builder working at the intersection of decentralized systems, blockchain security, and trustworthy AI.
 
 ## Current Interests
-Decentralized systems and P2P networks (Tribler, consensus protocols)
-Reputation and trust systems for distributed environments
-Blockchain security and fraud detection
-Prediction markets and oracle design
+Decentralized systems and P2P networks (Tribler, consensus protocols), 
+Reputation and trust systems for distributed environments, 
+Blockchain security and fraud detection, 
+Prediction markets and oracle design, 
 Federated learning, TEEs, and decentralized AI
 
 ## Currently Learning
