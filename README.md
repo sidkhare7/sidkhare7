@@ -1,28 +1,29 @@
 
 ## Siddharth Khare
 
-Junior researcher interested in distributed systems, decentralized AI, blockchain infrastructure, search systems, and Web3.
+Researcher and builder working at the intersection of decentralized systems, blockchain security, and trustworthy AI.
 
 ## Current Interests
-- Decentralized search and retrieval
-- Federated / peer-to-peer learning
-- Reputation and trust systems
-- Blockchain infrastructure
-- Distributed systems engineering
-- AI + systems research
+Decentralized systems and P2P networks (Tribler, consensus protocols)
+Reputation and trust systems for distributed environments
+Blockchain security and fraud detection
+Prediction markets and oracle design
+Federated learning, TEEs, and decentralized AI
 
 ## Currently Learning
-- Tribler architecture
+- P2P File sharing architecture
 - Learn-to-rank systems
 - Distributed machine learning
-- Vector search / semantic retrieval
-- P2P networking
+- Vector search/semantic retrieval
+- Trusted Execution Environments (TEEs)
 
 ## Projects
-Going to be added on Github.
+- On-Chain Reputation Engine: Behavioral ranking for DeFi agents. $10k grant, Northeastern IDEA Ventures.
+- Abracast: AI-resolved prediction market on Avalanche. IC3 Blockchain Camp 2026 Hackathon.
+- SoK: Ethereum Fraud Detection: GNN pipeline for classifying fraudulent wallets. Submitted to SBC Stanford 2026.
+- AIMaps.ai: AI labor-market intelligence platform.
 
 ## Research Profiles
 - LinkedIn: [[https://www.linkedin.com/in/siddharth-khare-45a50b194/]]
+- Email: [sidkhare@umd.edu]
 
-## Notes
-Building technical and research projects focused on real-world distributed systems.
